@@ -1,3 +1,8 @@
 {
-    "API_HOST": "http://localhost:8000"
+  "FLEETBASE_HOST": "https://api.moralogistics.com",
+  "SOCKETCLUSTER_HOST": "wss://sockets.moralogistics.com",
+  "BRAND_NAME": "Mora",
+  "REGISTRY_HOST": "https://registry.fleetbase.io",
+  "MAPS_PROVIDER": "mapbox",
+  "MAPBOX_TOKEN": "pk.eyJ1IjoicGFyY2VsaSIsImEiOiJjbWY4dTdheGMwMHlqMmpxb2xrbzlwZGl6In0.Ufl-WJNiwI1AsLXpTInxjg"
 }
