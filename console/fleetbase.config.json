@@ -1,7 +1,7 @@
 {
   "FLEETBASE_HOST": "https://api.moralogistics.com",
 
-  "SOCKETCLUSTER_HOST": "sockets.moralogistics.com",
+  "SOCKETCLUSTER_HOST": "ws.moralogistics.com",
   "SOCKETCLUSTER_PORT": 443,
   "SOCKETCLUSTER_SECURE": true,
   "SOCKETCLUSTER_PATH": "/socketcluster/",
