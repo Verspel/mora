@@ -1,6 +1,11 @@
 {
   "FLEETBASE_HOST": "https://api.moralogistics.com",
+
   "SOCKETCLUSTER_HOST": "ws.moralogistics.com",
+  "SOCKETCLUSTER_PORT": 443,
+  "SOCKETCLUSTER_SECURE": true,
+  "SOCKETCLUSTER_PATH": "/socketcluster/",
+
   "BRAND_NAME": "Mora",
   "REGISTRY_HOST": "https://registry.fleetbase.io",
   "MAPS_PROVIDER": "mapbox",
