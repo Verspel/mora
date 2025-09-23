@@ -1,6 +1,6 @@
 {
   "FLEETBASE_HOST": "https://api.moralogistics.com",
-  "SOCKETCLUSTER_HOST": "wss://sockets.moralogistics.com",
+  "SOCKETCLUSTER_HOST": "wss://ws.moralogistics.com",
   "BRAND_NAME": "Mora",
   "REGISTRY_HOST": "https://registry.fleetbase.io",
   "MAPS_PROVIDER": "mapbox",
