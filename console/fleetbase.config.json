@@ -1,7 +1,7 @@
 {
   "apiHost": "https://api.moralogistics.com",
   "API_HOST": "https://api.moralogistics.com",
-  "socketHost": "ws.moralogistics.com",
+  "socketHost": "sockets.moralogistics.com",
   "socketPort": 443,
   "socketSecure": true,
   "SOCKETCLUSTER_HOST": "sockets.moralogistics.com",
